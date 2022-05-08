@@ -7,6 +7,9 @@ In this project, a neural network architecture needs to be created to automatica
 ## Results
 These are some of the outputs give by the network using the [COCO dataset](http://cocodataset.org/):
 
+![example1](https://https://github.com/angelicaleiva/CVND---Image-Captioning-Project/blob/master/images/example1.png)
+![example2](https://github.com/angelicaleiva/CVND---Image-Captioning-Project/blob/master/images/example2.png)
+
 
 
 # Instructions  
