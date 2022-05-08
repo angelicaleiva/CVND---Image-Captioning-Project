@@ -1,5 +1,14 @@
 # CVND---Image-Captioning-Project
 
+## Project Overview
+
+In this project, a neural network architecture needs to be created to automatically generate captions from images.
+
+## Results
+These are some of the outputs give by the network using the [COCO dataset](http://cocodataset.org/):
+
+
+
 # Instructions  
 1. Clone this repo: https://github.com/cocodataset/cocoapi  
 ```
